@@ -1,0 +1,4 @@
+name = "PkgA"
+uuid = "abe1cad3-2ea7-4797-87a6-bb364912ccf0"
+authors = ["Simon Byrne <simonbyrne@gmail.com>"]
+version = "0.1.0"
